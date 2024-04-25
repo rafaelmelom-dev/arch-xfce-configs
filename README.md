@@ -3,4 +3,5 @@ There an adaptation in gtk-2.0 in theme, to show correctly, and looks like the g
 
 Themes authors links
 cursor (Capitaine Cursor - Gruvbox) - https://github.com/sainnhe/capitaine-cursors
+
 theme (Gruvbox-Dark-BL-LB) - https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme

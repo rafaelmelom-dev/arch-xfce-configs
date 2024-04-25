@@ -1,1 +1,1 @@
-Gruvbox theming, mainly in xfce, (counts with gtk{2, 3, 4}, and xfwm4)
+Hello, this is my configs files, it'a a blending with a various themes, and my personal configs to i3-wm.
